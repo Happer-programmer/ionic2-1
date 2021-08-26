@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Fatman and The Joker",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
